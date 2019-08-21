@@ -6,8 +6,10 @@ Ser capaz de abrir arquivos de imagem com o OpenCV tanto em um notebook quanto e
 Desenhar figuras geometrias simples em imagens.
 Interagir diretamente com uma imagem por meio de retornos de chamada.
 
-### 00_Imagens_Notebook.ipynb: 
+### 00_Imagens_Numpy.ipynb: 
+Numpy pode ler em certos tipos de arquivos, isso inclui imagens armazenadas como matrizes. 
+
+### 01_Imagens_Notebook.ipynb: 
 Abrindo arquivos de imagem em um notebook
 
-### 01_Imagens_Numpy.ipynb: 
-Numpy pode ler em certos tipos de arquivos, isso inclui imagens armazenadas como matrizes. 
+
