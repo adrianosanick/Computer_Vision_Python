@@ -20,4 +20,5 @@ Vamos explorar como podemos usar o Open CV para abrir arquivos em uma janela sep
 ### 03_Imagens_Desenhos.ipynb:  
 Desenhando figuras geométricas simples
 
-###
+### 04_Imagens_Mouse.ipynb:
+Desenhando com o mouse, usando eventos de click do mouse para realizar desenhos de figuras geométricas.
