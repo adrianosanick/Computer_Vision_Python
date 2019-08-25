@@ -17,4 +17,7 @@ O OpenCV pode abrir imagens em janelas externas separadas quando você executa u
 
 Vamos explorar como podemos usar o Open CV para abrir arquivos em uma janela separada. Normalmente, você executaria esse tipo de comando como um script! Portanto, também foi incluido um script **02_Imagem_OpenCV.py**.
 
-### 03_Imagens_Desenhos.ipynb: 
+### 03_Imagens_Desenhos.ipynb:  
+Desenhando figuras geométricas simples
+
+###
