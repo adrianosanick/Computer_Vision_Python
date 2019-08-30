@@ -22,3 +22,8 @@ Desenhando figuras geométricas simples
 
 ### 04_Imagens_Mouse.ipynb:
 Desenhando com o mouse, usando eventos de click do mouse para realizar desenhos de figuras geométricas.
+
+## Seção 2: Processamento de Imagem
+
+### 00_Proces_Imagens.ipynb:
+HSV é a abreviatura para o sistema de cores formadas pelas componentes hue (matiz), saturation (saturação) e value (valor). O HSV também é conhecido como HSB (hue, saturation e brightness — matiz, saturação e brilho, respectivamente).
